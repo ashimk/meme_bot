@@ -1,6 +1,6 @@
 "# meme_bot" 
 
-Use following inputs for meme bot 
+Use following inputs for meme bot(All the the expressions are case sensitive) 
 
 Ancient Aliens
 Batman Slapping Robin 

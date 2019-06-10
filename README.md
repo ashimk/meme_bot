@@ -1,6 +1,6 @@
 "# meme_bot" 
 
-Use following inputs for meme bot(All the the expressions are case sensitive) 
+Use following inputs for meme bot(All the expressions are case sensitive) 
 
 Ancient Aliens
 Batman Slapping Robin 
@@ -18,7 +18,7 @@ Mocking Spongebob
 Tuxedo Winnie The Pooh 
 Unsettled Tom 
 American Chopper Argument 
-Evil Toddler
+Evil Toddler 
 Disaster Girl  
 Steven Crowder's sign 
 Well Yes, But Actually No 
